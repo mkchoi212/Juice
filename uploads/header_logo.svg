@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="504px" height="110px" viewBox="0 0 504 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-234.000000, -229.000000)" fill="#000000">
+            <g id="Group" transform="translate(234.000000, 221.000000)">
+                <text id="deadbeef" font-family="Futura-Bold, Futura" font-size="70" font-weight="bold">
+                    <tspan x="145.24" y="89">deadbeef</tspan>
+                </text>
+                <text id="🍖" font-family="AppleColorEmoji, Apple Color Emoji" font-size="110" font-weight="normal">
+                    <tspan x="0" y="110">🍖</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
