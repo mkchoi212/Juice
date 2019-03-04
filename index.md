@@ -33,8 +33,8 @@ page_sections:
   id: "features"
   media_alignment: Left
   headline: <strong>Connect &amp; view<span class="light">&nbsp;</span></strong><span
-    class="light">your devices instantly</span>
-  content: Use global shortkeys to instantly connect to your favorite devices
+    class="light">your devices with ease</span>
+  content: Use global shortkeys to manage your favorite Bluetooth devices
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: Control Center Gif
@@ -44,7 +44,7 @@ page_sections:
   headline: <strong>Regain control</strong><span class="light">&nbsp;with the global Touch Bar widget</span>
   content: Connect with your devices from anywhere with the global Touch Bar widget.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/touchbar.png"
     alt_text: Touch Bar Widget
 - template: 2-column-text
   block: two-column-1
