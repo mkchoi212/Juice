@@ -18,7 +18,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: <strong>Juice</strong><br>Regain control of your Bluetooth devices
+  headline: <strong>Juice</strong><br>Complete Bluetooth manager for macOS
   content: macOS menu & touch bar application you always wanted
   cta:
     enabled: true
@@ -32,11 +32,19 @@ page_sections:
   block: feature-1
   id: "features"
   media_alignment: Left
-  headline: <strong>Connect &amp; view<span class="light">&nbsp;</span></strong><span
+  headline: <strong>Connect and view<span class="light">&nbsp;</span></strong><span
     class="light">your devices with ease</span>
-  content: Use global shortkeys to manage your favorite Bluetooth devices
+  content: 
+    Map hotkeys to easily connect to your favorite Bluetooth devices.
+    <br/><br/>
+    Manage your devices from...
+    <ul>
+      <li><strong>Macbook Pro Touch Bar</strong></li>  
+      <li><strong>macOS Notification Center</strong></li>  
+      <li><strong>Built-in Control Center with global hotkey</strong></li>  
+    </ul>
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/connect.png"
     alt_text: Control Center Gif
 - template: content-feature
   block: feature-1
@@ -46,13 +54,29 @@ page_sections:
   media:
     image: "/uploads/touchbar.png"
     alt_text: Touch Bar Widget
+- template: content-feature
+  block: feature-1
+  id: "features"
+  media_alignment: Left
+  headline: <strong>Make it Yours</strong>
+  content: Customize app behavior and appearance because we are all unique in our own ways.
+  media:
+    image: "/uploads/pref.png"
+    alt_text: Touch Bar Widget
+    
 - template: 2-column-text
   block: two-column-1
   id: "pricing"
   col_1:
     headline: Free
   col_2:
-    headline: Paid
+    headline: Pro
+
+- template: 1-column-text
+  block: one-column-1
+  id: "qa"
+  headline: Questions or Comments?
+  content: 
 
 - template: simple-footer
   block: footer-1
