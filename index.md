@@ -13,6 +13,9 @@ page_sections:
     link_text: Features
   - link: "#pricing"
     link_text: Pricing
+  - link: "#qa"
+    link_text: Questions 
+
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
@@ -80,6 +83,6 @@ page_sections:
 
 - template: simple-footer
   block: footer-1
-  image: "/uploads/bottom_banner.svg"
+  image: "/uploads/banner.svg"
   alt_text: "Logo"
 ---
