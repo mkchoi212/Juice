@@ -17,7 +17,7 @@ page_sections:
     link_text: Questions 
 
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: https://github.com/mkchoi212/Juice/releases/download/v0.1/Juice.dmg
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
@@ -25,7 +25,7 @@ page_sections:
   content: macOS menu & touch bar application you always wanted
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://github.com/mkchoi212/Juice/releases/download/v0.1/Juice.dmg
     button_text: 'Download Juice <strong>for free</strong>'
   image:
     image: "/uploads/product_face.gif"
