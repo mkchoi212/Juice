@@ -6,18 +6,8 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/header_logo.svg"
-  navigation:
-  - link: "/"
-    link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#qa"
-    link_text: Questions 
-
   cta:
-    url: https://github.com/mkchoi212/Juice/releases/download/v0.1/Juice.dmg
+    url: https://github.com/mkchoi212/Juice/releases/download/v0.1/Juice.0.1.dmg
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
@@ -25,7 +15,7 @@ page_sections:
   content: macOS menu & touch bar application you always wanted
   cta:
     enabled: true
-    url: https://github.com/mkchoi212/Juice/releases/download/v0.1/Juice.dmg
+    url: https://github.com/mkchoi212/Juice/releases/download/v0.1/Juice.0.1.dmg
     button_text: 'Download Juice <strong>for free</strong>'
   image:
     image: "/uploads/product_face.gif"
@@ -41,6 +31,7 @@ page_sections:
     Map hotkeys to easily connect to your favorite Bluetooth devices.
     <br/><br/>
     Manage your devices from...
+    <br/><br/>
     <ul>
       <li><strong>Macbook Pro Touch Bar</strong></li>  
       <li><strong>macOS Notification Center</strong></li>  

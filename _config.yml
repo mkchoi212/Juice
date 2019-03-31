@@ -17,3 +17,7 @@ gems:
   - jekyll-feed
   - jekyll-menus
 
+exclude:
+  - uploads/Releases/*
+
+
