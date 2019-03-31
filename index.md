@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/header_logo.svg"
   cta:
-    url: https://github.com/mkchoi212/Juice/releases/download/v0.1/Juice.0.1.dmg
+    url: https://s3.us-east-2.amazonaws.com/com.mjc.juice/Juice-Releases/Juice.dmg
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
@@ -15,7 +15,7 @@ page_sections:
   content: macOS menu & touch bar application you always wanted
   cta:
     enabled: true
-    url: https://github.com/mkchoi212/Juice/releases/download/v0.1/Juice.0.1.dmg
+    url: https://s3.us-east-2.amazonaws.com/com.mjc.juice/Juice-Releases/Juice.dmg
     button_text: 'Download Juice <strong>for free</strong>'
   image:
     image: "/uploads/product_face.gif"
