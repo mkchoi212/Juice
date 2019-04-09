@@ -5,15 +5,15 @@
         <description>Most recent updates to Juice</description>
         <language>en</language>
         <item>
-            <title>Version 1.1</title>
+            <title>Version 1.2</title>
             <sparkle:releaseNotesLink>
               https://deadbeef.me/Juice/releasenotes.html
             </sparkle:releaseNotesLink>
-            <pubDate>Sun, 07 Apr 2019 14:10:10 -0500</pubDate>
-            <enclosure url="https://s3.us-east-2.amazonaws.com/com.mjc.juice/Juice-Releases/Juice+1.1.dmg"
-                       sparkle:version="1.1"
-                       sparkle:edSignature="2Qlx0w2tdubshiwu1jhcnNogcPJ4ttR+dtxduU+xw/Awrt1E9HjQ7R0Uqwt3h9GhtHMSUrZJpqo5dH8dwne8AA=="
-                       length="11606629"
+            <pubDate>Tue, 09 Apr 2019 11:10:10 -0500</pubDate>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/com.mjc.juice/Juice-Releases/Juice+1.2.dmg"
+                       sparkle:version="1.2"
+                       sparkle:edSignature="udkjxt/Kg5B7zwxcHEEsyPYjdR1FRrzczKXMtWbfW/bAiZb34G+51z2JGm1WfjTTqW9Z8OAVdOZEL0HhLIryBg=="
+                       length="11645214"
                        type="application/octet-stream" />
         </item>
     </channel>
