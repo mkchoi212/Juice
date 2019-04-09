@@ -16,7 +16,7 @@ page_sections:
   cta:
     enabled: true
     url: https://gum.co/juice-app
-    button_text: 'Download Juice <strong>for $6.99</strong>'
+    button_text: 'Download Juice <strong>for $5.99</strong>'
   image:
     image: "/uploads/product_face.gif"
     alt_text: Control Center in Dark Mode
