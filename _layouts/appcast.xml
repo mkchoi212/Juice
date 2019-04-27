@@ -9,11 +9,11 @@
             <sparkle:releaseNotesLink>
               https://deadbeef.me/Juice/releasenotes.html
             </sparkle:releaseNotesLink>
-            <pubDate>Mon, 22 Apr 2019 15:00:15 -0500</pubDate>
-            <enclosure url="https://s3.us-east-2.amazonaws.com/com.mjc.juice/Juice-Releases/Juice+1.2.1.dmg"
-                       sparkle:version="1.2.1"
-                       sparkle:edSignature="JSDZmlFh+f9ylF/fy/Guy0dLBi4eTf+9vCfOZkztqHUtkKpvGSmUNZ6PbtA+Y0iIC0gisxdkEbLTjBIWktErBg=="
-                       length="11725399"
+            <pubDate>Sat, 27 Apr 2019 13:34:15 -0500</pubDate>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/com.mjc.juice/Juice-Releases/Juice+1.2.2.dmg"
+                       sparkle:version="1.2.2"
+                       sparkle:edSignature="XKOg69PFUM32iadNhT865Y9UusxO/QIjPDl4erLrjL/jYaVrqw55a5yYkYVaKGdUJBvewDGyhyDxg6qAbQ85Cg=="
+                       length="11729217"
                        type="application/octet-stream" />
         </item>
     </channel>
