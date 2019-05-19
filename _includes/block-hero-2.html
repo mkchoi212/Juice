@@ -10,6 +10,10 @@ style="background-image: url('{{ section.background_image | relative_url }}')"
         {% if section.cta and section.cta.enabled == true %}
         <a class="button primary inverted" href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
         {% endif %}
+        <br>
+        <br>
+        <a href="https://www.producthunt.com/posts/juice-for-macos?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-juice-for-macos" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=150687&theme=light&period=daily" alt="Juice for macOS - The missing Bluetooth manager for macOS you always wanted. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+        <a href="https://www.producthunt.com/posts/juice-for-macos?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-juice-for-macos" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=150687&theme=light" alt="Juice for macOS - The missing Bluetooth manager for macOS you always wanted. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
       </div>
       <div class="column media">
         <img class="demo" src="{{ section.image.image | relative_url }}" alt="{{ section.image.alt_text }}">
